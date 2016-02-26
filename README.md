@@ -1,4 +1,0 @@
-# hunter
-HunterApp
-
-Testing
